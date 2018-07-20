@@ -1,0 +1,9 @@
+D:\Full-Time\FlightConsole\FlightConsole\bin\Debug\FlightConsole.exe.config
+D:\Full-Time\FlightConsole\FlightConsole\bin\Debug\FlightConsole.exe
+D:\Full-Time\FlightConsole\FlightConsole\bin\Debug\FlightConsole.pdb
+D:\Full-Time\FlightConsole\FlightConsole\bin\Debug\FlightLibrary.dll
+D:\Full-Time\FlightConsole\FlightConsole\bin\Debug\FlightLibrary.pdb
+D:\Full-Time\FlightConsole\FlightConsole\obj\Debug\FlightConsole.csprojResolveAssemblyReference.cache
+D:\Full-Time\FlightConsole\FlightConsole\obj\Debug\FlightConsole.csproj.CoreCompileInputs.cache
+D:\Full-Time\FlightConsole\FlightConsole\obj\Debug\FlightConsole.exe
+D:\Full-Time\FlightConsole\FlightConsole\obj\Debug\FlightConsole.pdb
